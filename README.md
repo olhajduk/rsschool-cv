@@ -1,2 +1,3 @@
 # rsschool-cv
-RSS 2021-Q1 stage0
+[Markdown & Git](https://olhajduk.github.io/rsschool-cv/cv)
+[HTML, CSS & Git Basics](https://olhajduk.github.io/rsschool-cv/)
